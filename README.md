@@ -35,10 +35,10 @@
 <p align="center" >
 
 <a href="https://github.com/ahmnouira">
-    <img width="45%" height="200px" src="https://github-readme-stats.vercel.app/api?username=ahmnouira&count_private=true&show_icons=true&theme=nightowl&include_all_commits=true&langs_count=10&border_radius=15&border_color=#212121" /> 
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ahmnouira&count_private=true&show_icons=true&theme=nightowl&include_all_commits=true&langs_count=10&border_radius=15&border_color=#212121" /> 
   </a>
 <a href="https://github.com/ahmnouira">
-  <img width="45%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmnouira&layout=compact&langs_count=8&hide=Mako&theme=nightowl&count_private=true&border_radius=15&border_color=#212121" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmnouira&layout=compact&langs_count=8&hide=Mako&theme=nightowl&count_private=true&border_radius=15&border_color=#212121" />
 </a>
 </p>
 
