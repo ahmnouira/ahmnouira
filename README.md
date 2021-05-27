@@ -28,7 +28,7 @@
 
 <p align="center" >
   <a href="https://github.com/ahmnouira">
-    <img src="https://github-readme-stats.vercel.app/api?username=ahmnouira&count_private=true&show_icons=true&theme=nightowl&include_all_commits=true&langs_count=10&border_radius=15&border_color=#212121" /> 
+    <img height="200px" src="https://github-readme-stats.vercel.app/api?username=ahmnouira&count_private=true&show_icons=true&theme=nightowl&include_all_commits=true&langs_count=10&border_radius=15&border_color=#212121" /> 
   </a>
 </p>
 
