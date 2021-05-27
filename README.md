@@ -1,10 +1,6 @@
 <h1 align="center">Hi there <img width="45" src="waving_hand.gif">, I'm Ahmed Nouira </h1>
 
---
-
-<p align="center">
 ![](https://komarev.com/ghpvc/?username=ahmnouira-st&style=plastic&label=PROFILE+VIEWS&color=blueviolet)
-</p>
 
 # 🗝️ I'm a Full-Stack Developer
 
