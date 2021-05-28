@@ -4,12 +4,12 @@
 
 # 🗝️ About Me
 
-- 🧑‍💻 I’m Full-Stack Software Engineer
-- 💼 I’m currently looking for job
-- 👯 I’m looking to collaborate on projects
+- 🧑‍💻 Full-Stack Software Engineer
+- 💼 Currently looking for job
+- 👯 Looking to collaborate on projects
 - 💬 Ask me about any help -=^.^=-
 
-# ✍️Blogs
+# ✍️ Blogs
 
 <p align ="center">
 
