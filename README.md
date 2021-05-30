@@ -1,4 +1,4 @@
-<h1 align="center">Hi there <img width="45" src="waving_hand.gif" />, I'm Ahmed Nouira </h1>
+<h1 align="center">Hi there <img width="45" src="waving_hand.gif" alt="hand" />, I'm Ahmed Nouira </h1>
 
 ![](https://komarev.com/ghpvc/?username=ahmnouira-st&style=plastic&label=PROFILE+VIEWS&color=blueviolet)
 
@@ -9,13 +9,20 @@
 - 👯 Looking to collaborate on projects
 - 💬 Ask me about any help -=^.^=-
 
-# 🤝 Contacts
+# 🤝 Reach Me
 
 <p align ="center">
-  <a href ="https://twitter.com/AhmNouira">
+
+  <a href ="#" role="Discord">
+  <img src="https://img.shields.io/badge/-Discord-7289da?style=for-the-badge&logo=Discord&logoColor=white"/>
+  </a>
+    <a href ="#" role="Skype">
+  <img src="https://img.shields.io/badge/-Skype-00aff0?style=for-the-badge&logo=Skype&logoColor=white"/>
+  </a>
+  <a href ="https://twitter.com/AhmNouira" role="Twitter">
   <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"/>
   </a>
-  <a href ="https://www.linkedin.com/in/ahmnouira/">
+  <a href ="https://www.linkedin.com/in/ahmnouira/" role="LinkedIn">
   <img src="https://img.shields.io/badge/-LinkedIN-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"/>
   </a>
    <a href ="https://www.facebook.com/ahmed.nouira.7792/">
