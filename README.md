@@ -8,12 +8,10 @@
 - 💼 Currently looking for job
 - 👯 Looking to collaborate on projects
 - 💬 Ask me about any help -=^.^=-
-- <img src="https://img.icons8.com/color/48/000000/email.png" alt="git" width="20" height="20"/> [ahmnouira@gmail.com](mailto:ahmnouira@gmail.com)
 
 # 🤝 Contacts
 
 <p align ="center">
- 
   <a href ="https://twitter.com/AhmNouira">
   <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"/>
   </a>
@@ -23,12 +21,11 @@
    <a href ="https://www.facebook.com/ahmed.nouira.7792/">
   <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white"/>
   </a>
-</p
+</p>
 
 # ✍️ Blogs
 
 <p align ="center">
-
   <a href="https://www.instructables.com/member/Ahmed+Nouira/">
   <img src="https://img.shields.io/badge/-instructables.com-333?style=for-the-badge&logo=instructables&logoColor=#faac18"/>
   </a>
