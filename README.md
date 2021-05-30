@@ -4,12 +4,12 @@
 
 # 🗝️ About Me
 
-- 🧑‍💻 I’m Full-Stack Software Engineer
-- 💼 I’m currently looking for job
-- 👯 I’m looking to collaborate on projects
+- 🧑‍💻 Full-Stack Software Engineer
+- 💼 Currently looking for job
+- 👯 Looking to collaborate on projects
 - 💬 Ask me about any help -=^.^=-
 
-# ✍️Blogs
+# ✍️ Blogs
 
 <p align ="center">
 
@@ -27,17 +27,17 @@
 # 📉 Statsyar
 
 <p align="center" >
-  <a href="https://github.com/ahmnouira">
+  <a href="https://github-readme-streak-stats.herokuapp.com?user=ahmnouira&theme=tokyonight_duo">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ahmnouira&theme=tokyonight_duo" />
 </a>
 </p>
 
 <p align="center" >
 
-<a href="https://github.com/ahmnouira">
+<a href="https://github-readme-stats.vercel.app/api?username=ahmnouira&count_private=true&show_icons=true&theme=nightowl&include_all_commits=true&langs_count=10&border_radius=15&border_color=#212121">
     <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ahmnouira&count_private=true&show_icons=true&theme=nightowl&include_all_commits=true&langs_count=10&border_radius=15&border_color=#212121" /> 
   </a>
-<a href="https://github.com/ahmnouira">
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmnouira&layout=compact&langs_count=8&hide=Mako&theme=nightowl&count_private=true&border_radius=15&border_color=#212121">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmnouira&layout=compact&langs_count=8&hide=Mako&theme=nightowl&count_private=true&border_radius=15&border_color=#212121" />
 </a>
 </p>
@@ -45,5 +45,7 @@
 <p align="center" >
 <a href="https://github.com/ahmnouira">
   <img  width="45%" src="https://github-readme-stats.vercel.app/api/wakatime?username=ahmnouira&v=2&langs_count=8&custom_title=My week stats&theme=nightowl&count_private=true&count_private=true&border_radius=15&border_color=#212121" /> 
+<a href="https://github-readme-stats.vercel.app/api/wakatime?username=ahmnouira&v=2&langs_count=8&custom_title=Ahmed Nouira week stats ^^&theme=nightowl&count_private=true&count_private=true&border_radius=15&border_color=#212121">
+  <img  width="45%" src="https://github-readme-stats.vercel.app/api/wakatime?username=ahmnouira&v=2&langs_count=8&custom_title=Ahmed Nouira week stats ^^&theme=nightowl&count_private=true&count_private=true&border_radius=15&border_color=#212121" /> 
 </a>
 </p>
