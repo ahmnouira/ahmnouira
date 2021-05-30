@@ -3,6 +3,12 @@
     "format": "prettier --write ."
   },
   "devDependencies": {
+    "husky": "^6.0.0",
     "prettier": "^2.3.0"
-  }
+  }, 
+  "husky": {
+    "hooks": {
+    "pre-commit": "yarn format"
+    }
+    }
 }
