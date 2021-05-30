@@ -9,7 +9,7 @@
 - 👯 Looking to collaborate on projects
 - 💬 Ask me about any help -=^.^=-
 
-# 🤝 Reach Me
+# 🤝 Contact Me
 
 <p align ="center">
 
@@ -30,7 +30,7 @@
   </a>
 </p>
 
-# ✍️ Blogs
+# ✍️ My Blogs
 
 <p align ="center">
   <a href="https://www.instructables.com/member/Ahmed+Nouira/">
@@ -44,7 +44,7 @@
   </a>
 </p>
 
-# 📉 Stats
+# 📉 My Stats
 
 <p align="center" >
   <a href="https://github-readme-streak-stats.herokuapp.com?user=ahmnouira&theme=tokyonight_duo">
