@@ -13,7 +13,7 @@
 
 <p align ="center">
 
-  <a href ="#" role="Discord">
+  <a href ="#'ahmnouira#4312'" role="ahmnouira#4312">
   <img src="https://img.shields.io/badge/-Discord-7289da?style=for-the-badge&logo=Discord&logoColor=white"/>
   </a>
     <a href ="#" role="Skype">
@@ -54,15 +54,18 @@
 
 <p align="center" >
 <a href="https://github-readme-stats.vercel.app/api?username=ahmnouira&count_private=true&show_icons=true&theme=nightowl&include_all_commits=true&langs_count=10&border_radius=15&border_color=#212121">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ahmnouira&count_private=true&show_icons=true&theme=nightowl&include_all_commits=true&langs_count=10&border_radius=15&border_color=#212121" /> 
+    <img src="https://github-readme-stats.vercel.app/api?username=ahmnouira&count_private=true&show_icons=true&theme=nightowl&include_all_commits=true&langs_count=10&border_radius=15&border_color=#212121" /> 
   </a>
+</p>
+
+<p align="center">
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmnouira&layout=compact&langs_count=8&hide=Mako&theme=nightowl&count_private=true&border_radius=15&border_color=#212121">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmnouira&layout=compact&langs_count=8&hide=Mako&theme=nightowl&count_private=true&border_radius=15&border_color=#212121" />
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmnouira&layout=compact&langs_count=8&hide=Mako&theme=nightowl&count_private=true&border_radius=15&border_color=#212121" />
 </a>
 </p>
 
 <p align="center" >
 <a href="https://github.com/ahmnouira">
-  <img  width="45%" src="https://github-readme-stats.vercel.app/api/wakatime?username=ahmnouira&v=2&langs_count=8&custom_title=My week stats&theme=nightowl&count_private=true&count_private=true&border_radius=15&border_color=#212121" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ahmnouira&v=2&langs_count=8&custom_title=My stats&theme=nightowl&count_private=true&count_private=true&border_radius=15&border_color=#212121" />
   </a>
 </p>
