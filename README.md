@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=ahmnouira-st&style=plastic&label=PROFILE+VIEWS&color=blueviolet)
 
-# 🗝️ About Me
+# 🗝️ About Me :tunisia:	
 
 - 🧑‍💻 Full-Stack Software Engineer
 - 💼 Currently looking for job
@@ -45,6 +45,8 @@
 </p>
 
 # 📉 My Stats
+
+> **:octocat: [Github Profile Summary](https://profile-summary-for-github.com/user/ahmnouira)**
 
 <p align="center" >
   <a href="https://github-readme-streak-stats.herokuapp.com?user=ahmnouira&theme=tokyonight_duo">
