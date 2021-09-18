@@ -56,7 +56,7 @@
 
 <p align="center" >
 <a href="https://wakatime.com/@ahmnouira" target="\_blank">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ahmnouira&v=2&langs_count=20&custom_title=🔝My Top 20 Used Programming Language💻&theme=nightowl&count_private=true&count_private=true&border_radius=15&border_color=#212121" alt="🔝My Top 20 Used Programming Language💻" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ahmnouira&v=2&langs_count=20&custom_title=🔝 My Top 20 💻&theme=nightowl&count_private=true&count_private=true&border_radius=15&border_color=#212121" alt="🔝 My Top 20💻 " />
   </a>
 </p>
 
@@ -68,7 +68,7 @@
 
 <p align="center">
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmnouira&layout=compact&langs_count=20&hide=Mako&theme=nightowl&count_private=true&border_radius=15&border_color=#212121">
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmnouira&layout=compact&langs_count=8&hide=Mako&theme=nightowl&count_private=true&border_radius=15&border_color=#212121" />
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmnouira&layout=compact&langs_count=20&hide=Mako&theme=nightowl&count_private=true&border_radius=15&border_color=#212121" />
 </a>
 </p>
 
