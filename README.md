@@ -1,6 +1,5 @@
 <h1 align="center">Hi there <img width="45" src="waving_hand.gif" alt="hand" />, I'm Ahmed Nouira </h1>
 
-
 ![](https://komarev.com/ghpvc/?username=ahmnouira-st&style=flat&label=PROFILE+VIEWS&color=blue)
 [![wakatime](https://wakatime.com/badge/user/46b90438-4acb-4c78-9d39-dcc04f80c6ce.svg)](https://wakatime.com/@46b90438-4acb-4c78-9d39-dcc04f80c6ce)
 
@@ -33,23 +32,26 @@
   </a>
 </p>
 
-# ✍️ Blogs & Medias
+# ✍️ Blogs
 
 <p align ="center">
-  <a href ="https://www.youtube.com/channel/UClZrlY_Eru1hUgAIqHUzeIg/videos" role="Youtube">
-  <img src="https://img.shields.io/badge/-Youtube-fe0002?style=for-the-badge&logo=Youtube&logoColor=f4fffc"/>
+  <a href="https://www.instructables.com/member/Ahmed+Nouira/">
+  <img src="https://img.shields.io/badge/-instructables.com-333?style=for-the-badge&logo=instructables&logoColor=#faac18"/>
   </a>
- 
   <a href="https://dev.to/ahmnouira">
   <img src="https://img.shields.io/badge/-DEV.to-000?style=for-the-badge&logo=dev.to&logoColor=white"/>
   </a>
    <a href="https://medium.com/@ahmnouira">
   <img src="https://img.shields.io/badge/-Medium-000?style=for-the-badge&logo=Medium&logoColor=white"/>
   </a>
-  
-   <a href="https://www.instructables.com/member/Ahmed+Nouira/">
-  <img src="https://img.shields.io/badge/-instructables.com-333?style=for-the-badge&logo=instructables&logoColor=#faac18"/>
-  </a>
+ </p>
+ 
+# 📺 Youtube
+
+<p align ="center">
+ <a href ="https://www.youtube.com/channel/UClZrlY_Eru1hUgAIqHUzeIg/videos" role="Youtube">
+  <img src="https://img.shields.io/badge/-Youtube-fe0002?style=for-the-badge&logo=Youtube&logoColor=f4fffc"/>
+  </a>  
 </p>
 
 # 📉 My Stats
@@ -64,7 +66,7 @@
 
 <p align="center" >
 <a href="https://wakatime.com/@ahmnouira" target="\_blank">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ahmnouira&v=2&langs_count=10&custom_title=💻 My Top 10 🔝&theme=nightowl&count_private=true&count_private=true&border_radius=15&border_color=#212121" alt="💻 My Top 10 🔝" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ahmnouira&v=2&langs_count=15&custom_title=💻 My Top 15 🔝&theme=nightowl&count_private=true&count_private=true&border_radius=15&border_color=#212121" alt="💻 My Top 15 🔝" />
   </a>
 </p>
 
