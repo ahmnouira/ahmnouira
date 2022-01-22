@@ -16,10 +16,6 @@
 
 <p align ="center">
   
-   <a href ="https://www.youtube.com/channel/UClZrlY_Eru1hUgAIqHUzeIg/videos" role="Youtube">
-  <img src="https://img.shields.io/badge/-Youtube-fe0002?style=for-the-badge&logo=Youtube&logoColor=f4fffc"/>
-  </a>
-
   <a href ="https://discord.gg/raDKEF3gbG" role="join discord">
   <img src="https://img.shields.io/badge/-Discord-7289da?style=for-the-badge&logo=Discord&logoColor=white"/>
   </a>
@@ -37,18 +33,26 @@
   </a>
 </p>
 
-# ✍️ My Blogs
+# ✍️ Blogs & Medias
 
 <p align ="center">
-  <a href="https://www.instructables.com/member/Ahmed+Nouira/">
-  <img src="https://img.shields.io/badge/-instructables.com-333?style=for-the-badge&logo=instructables&logoColor=#faac18"/>
+  
+    <a href ="https://www.youtube.com/channel/UClZrlY_Eru1hUgAIqHUzeIg/videos" role="Youtube">
+  <img src="https://img.shields.io/badge/-Youtube-fe0002?style=for-the-badge&logo=Youtube&logoColor=f4fffc"/>
   </a>
+ 
   <a href="https://dev.to/ahmnouira">
   <img src="https://img.shields.io/badge/-DEV.to-000?style=for-the-badge&logo=dev.to&logoColor=white"/>
   </a>
    <a href="https://medium.com/@ahmnouira">
   <img src="https://img.shields.io/badge/-Medium-000?style=for-the-badge&logo=Medium&logoColor=white"/>
   </a>
+  
+   <a href="https://www.instructables.com/member/Ahmed+Nouira/">
+  <img src="https://img.shields.io/badge/-instructables.com-333?style=for-the-badge&logo=instructables&logoColor=#faac18"/>
+  </a>
+  
+
 </p>
 
 # 📉 My Stats
