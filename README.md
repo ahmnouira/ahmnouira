@@ -36,8 +36,7 @@
 # ✍️ Blogs & Medias
 
 <p align ="center">
-  
-    <a href ="https://www.youtube.com/channel/UClZrlY_Eru1hUgAIqHUzeIg/videos" role="Youtube">
+  <a href ="https://www.youtube.com/channel/UClZrlY_Eru1hUgAIqHUzeIg/videos" role="Youtube">
   <img src="https://img.shields.io/badge/-Youtube-fe0002?style=for-the-badge&logo=Youtube&logoColor=f4fffc"/>
   </a>
  
@@ -51,8 +50,6 @@
    <a href="https://www.instructables.com/member/Ahmed+Nouira/">
   <img src="https://img.shields.io/badge/-instructables.com-333?style=for-the-badge&logo=instructables&logoColor=#faac18"/>
   </a>
-  
-
 </p>
 
 # 📉 My Stats
