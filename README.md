@@ -15,6 +15,10 @@
 # 🤝 Contact Me
 
 <p align ="center">
+  
+   <a href ="https://www.youtube.com/channel/UClZrlY_Eru1hUgAIqHUzeIg/videos" role="Youtube">
+  <img src="https://img.shields.io/badge/-Youtube-fe0002?style=for-the-badge&logo=Youtube&logoColor=f4fffc"/>
+  </a>
 
   <a href ="https://discord.gg/raDKEF3gbG" role="join discord">
   <img src="https://img.shields.io/badge/-Discord-7289da?style=for-the-badge&logo=Discord&logoColor=white"/>
