@@ -7,7 +7,7 @@
 # 🗝️ About Me :tunisia:	
 
 - 🧑‍💻 Full-Stack Software Engineer
-- 💼 Currently looking for job
+- 💼 Always looking for a new better job
 - 👯 Looking to collaborate on projects
 - 💬 Ask me about any help -=^.^=-
 
@@ -18,7 +18,7 @@
   <a href ="https://discord.gg/raDKEF3gbG" role="join discord">
   <img src="https://img.shields.io/badge/-Discord-7289da?style=for-the-badge&logo=Discord&logoColor=white"/>
   </a>
-    <a href ="#" role="Skype">
+    <a href ="https://join.skype.com/invite/Fd1B3SvLPPTF" role="Skype">
   <img src="https://img.shields.io/badge/-Skype-00aff0?style=for-the-badge&logo=Skype&logoColor=white"/>
   </a>
   <a href ="https://twitter.com/AhmNouira" role="Twitter">
