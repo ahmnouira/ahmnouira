@@ -16,7 +16,7 @@
 
 <p align ="center">
 
-  <a href ="https://discord.com/invite/cFEJs57t" role="join discord">
+  <a href ="https://discord.gg/jqgPMq2qXj" role="join discord">
   <img src="https://img.shields.io/badge/-Discord-7289da?style=for-the-badge&logo=Discord&logoColor=white"/>
   </a>
     <a href ="#" role="Skype">
