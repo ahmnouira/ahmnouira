@@ -7,7 +7,7 @@
 # 🗝️ About Me :tunisia:	
 
 - 🧑‍💻 Full-Stack <b>Software Engineer</b>
-- 💼 Always <b>looking for a new better job</b>
+<!-- - 💼 Always <b>looking for a new better job</b> -->
 - 👯 Looking to collaborate on projects
 - 💬 Ask me about any help -=^.^=-
 
