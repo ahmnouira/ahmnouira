@@ -66,8 +66,7 @@
 
 <p align="center" >
 <a href="https://wakatime.com/@ahmnouira" target="\_blank">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ahmnouira&v=2custom_title=💻 Coding Rank 🔝&theme=nightowl&count_private=true&count_private=true&border_radius=15&border_color=#212121" alt="💻 Coding Rank 🔝" />
-  </a>
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ahmnouira&v=2&langs_count=5&custom_title=💻 My Top 5 🔝&theme=nightowl&count_private=true&count_private=true&border_radius=15&border_color=#212121" alt="💻 My Top 5 🔝" />
 </p>
 
 <p align="center" >
