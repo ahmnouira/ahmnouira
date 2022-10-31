@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <h1 align="center">Hi there <img width="45" src="waving_hand.gif" alt="hand" />, I'm Ahmed Nouira </h1>
 
 ![](https://komarev.com/ghpvc/?username=ahmnouira-st&style=plastic&label=PROFILE+VIEWS&color=blueviolet)
@@ -73,7 +73,6 @@
 </a>
 </p>
 
-=======
 <h1 align="center">Hi there <img width="45" src="waving_hand.gif" alt="hand" />, I'm Ahmed Nouira </h1>
 
 ![](https://komarev.com/ghpvc/?username=ahmnouira-st&style=flat&label=PROFILE+VIEWS&color=blue)
@@ -156,5 +155,3 @@
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmnouira&layout=compact&langs_count=20&hide=Mako&theme=nightowl&count_private=true&border_radius=15&border_color=#212121" />
 </a>
 </p>
-
->>>>>>> 66ffe865d74f8704727f3d085cca2e3805e931d0
