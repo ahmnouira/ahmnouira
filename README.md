@@ -13,8 +13,15 @@
 
 # 🤝 Contact Me
 
+<p align="center">  
+  
+</p>
+
 <p align ="center">
   
+  <a href ="https://www.upwork.com/freelancers/~014b1fd967be5fa755" role="upwork">
+  <img src="https://img.shields.io/badge/-Upwork-14a800?style=for-the-badge&logo=Upwork&logoColor=white"/>
+  </a>
   <a href ="https://discord.gg/raDKEF3gbG" role="join discord">
   <img src="https://img.shields.io/badge/-Discord-7289da?style=for-the-badge&logo=Discord&logoColor=white"/>
   </a>
