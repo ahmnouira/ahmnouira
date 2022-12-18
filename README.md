@@ -28,7 +28,7 @@
     <a href ="https://join.skype.com/invite/Fd1B3SvLPPTF" role="Skype">
   <img src="https://img.shields.io/badge/-Skype-00aff0?style=for-the-badge&logo=Skype&logoColor=white"/>
   </a>
-  <a href ="https://twitter.com/AhmNouira" role="Twitter">
+  <a href ="https://twitter.com/ahmnouira" role="Twitter">
   <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"/>
   </a>
   <a href ="https://www.linkedin.com/in/ahmnouira/" role="LinkedIn">
