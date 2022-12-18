@@ -73,7 +73,7 @@
 
 <p align="center" >
 <a href="https://wakatime.com/@ahmnouira" target="\_blank">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ahmnouira&v=2&langs_count=10&custom_title=💻 My Top 10 🔝&theme=nightowl&count_private=true&count_private=true&border_radius=15&border_color=#212121" alt="💻 My Top 10 🔝" />
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ahmnouira&v=2&langs_count=10&custom_title=%F0%9F%92%BB%20My%20Top%2010%20%F0%9F%94%9D&theme=nightowl&count_private=true&count_private=true&border_radius=15&border_color=#212121%22%20alt=%22%F0%9F%92%BB%20My%20Top%2010%20%F0%9F%94%9D" alt="💻 My Top 10 🔝" />
 </p>
 
 <p align="center" >
