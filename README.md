@@ -3,10 +3,9 @@
 ![](https://komarev.com/ghpvc/?username=ahmnouira-st&style=flat&label=PROFILE+VIEWS&color=blue)
 [![wakatime](https://wakatime.com/badge/user/46b90438-4acb-4c78-9d39-dcc04f80c6ce.svg)](https://wakatime.com/@46b90438-4acb-4c78-9d39-dcc04f80c6ce)
 
-<!-- 💼 Always <b>looking for a new better job</b> -->
+# 🗝️ About Me :tunisia *Open To Work*
 
-# 🗝️ About Me :tunisia:	
-
+- 💼 Always <b>looking for a new better job</b>
 - 👨‍💻 Full-Stack <b>Software Engineer</b>
 - 👯 Looking to collaborate on projects
 - 💬 Ask me about any help -=^.^=-
@@ -52,7 +51,7 @@
   <img src="https://img.shields.io/badge/-Medium-000?style=for-the-badge&logo=Medium&logoColor=white"/>
   </a>
  </p>
- 
+
 # 📺 Youtube
 
 <p align ="center">
@@ -78,7 +77,7 @@
 
 <p align="center" >
 <a href="https://github-readme-stats.vercel.app/api?username=ahmnouira&count_private=true&show_icons=true&theme=nightowl&include_all_commits=true&langs_count=10&border_radius=15&border_color=#212121">
-    <img src="https://github-readme-stats.vercel.app/api?username=ahmnouira&count_private=true&show_icons=true&theme=nightowl&include_all_commits=true&langs_count=10&border_radius=15&border_color=#212121" /> 
+    <img src="https://github-readme-stats.vercel.app/api?username=ahmnouira&count_private=true&show_icons=true&theme=nightowl&include_all_commits=true&langs_count=10&border_radius=15&border_color=#212121" />
   </a>
 </p>
 
