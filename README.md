@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=ahmnouira-st&style=flat&label=PROFILE+VIEWS&color=blue)
 [![wakatime](https://wakatime.com/badge/user/46b90438-4acb-4c78-9d39-dcc04f80c6ce.svg)](https://wakatime.com/@46b90438-4acb-4c78-9d39-dcc04f80c6ce)
 
-# 🗝️ About Me :tunisia *Open To Work*
+# 🗝️ About Me
 
 - 💼 Always <b>looking for a new better job</b>
 - 👨‍💻 Full-Stack <b>Software Engineer</b>
