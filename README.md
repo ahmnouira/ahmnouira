@@ -55,7 +55,7 @@
 # 📺 Youtube
 
 <p align ="center">
- <a href ="https://www.youtube.com/@ahmnouira" role="Youtube">
+ <a href ="https://www.youtube.com/@ahmnouira?sub_confirmation=1" role="Youtube">
   <img src="https://img.shields.io/badge/-Youtube-fe0002?style=for-the-badge&logo=Youtube&logoColor=f4fffc"/>
   </a>  
 </p>
