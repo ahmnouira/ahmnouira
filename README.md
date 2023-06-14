@@ -18,6 +18,10 @@
 
 <p align ="center">
   
+  <a href="https://wa.me/21624272897" role="whatsapp">
+  <img src="https://img.shields.io/badge/-WhatsApp-14a800?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  
   <a href ="https://www.upwork.com/freelancers/~014b1fd967be5fa755?viewMode=1" role="upwork">
   <img src="https://img.shields.io/badge/-Upwork-14a800?style=for-the-badge&logo=Upwork&logoColor=white"/>
   </a>
