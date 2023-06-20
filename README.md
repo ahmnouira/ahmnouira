@@ -6,7 +6,7 @@
 # 🗝️ About Me
 
 - 💼 Always <b>looking for a new better job</b>
-- 👨‍💻 <b>Independent Software Engineer</b> with +7 years of work experience.
+- 👨‍💻 <b>Senior Software Engineer</b> with 7+ years of software development experience.
 - 👯 Looking to collaborate on projects
 - 💬 Ask me about any help -=^.^=-
 
