@@ -3,7 +3,13 @@
 ![](https://komarev.com/ghpvc/?username=ahmnouira-st&style=flat&label=PROFILE+VIEWS&color=blue)
 [![wakatime](https://wakatime.com/badge/user/46b90438-4acb-4c78-9d39-dcc04f80c6ce.svg)](https://wakatime.com/@46b90438-4acb-4c78-9d39-dcc04f80c6ce)
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/821714984924086283)](https://discord.com/users/821714984924086283)
+---
+
+<p align ="center">
+  <a href="https://discord.com/users/821714984924086283">
+    <img src="https://lanyard.cnrad.dev/api/821714984924086283" />
+  </a>
+</p>
 
 # 🗝️ About Me
 
