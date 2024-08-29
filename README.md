@@ -53,7 +53,7 @@
 # ✍️ Blogs
 
 <p align ="center">
-  <a href="https://www.instructables.com/member/Ahmed+Nouira/">
+  <a href="https://www.instructables.com/member/ahmnouira/">
   <img src="https://img.shields.io/badge/-instructables.com-333?style=for-the-badge&logo=instructables&logoColor=#faac18"/>
   </a>
   <a href="https://dev.to/ahmnouira">
