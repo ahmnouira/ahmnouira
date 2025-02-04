@@ -20,12 +20,6 @@
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ahmnouira&v=2&langs_count=10&custom_title=%F0%9F%92%BB%20My%20Top%2010%20%F0%9F%94%9D&theme=nightowl&count_private=true&count_private=true&border_radius=15&border_color=#212121%22%20alt=%22%F0%9F%92%BB%20My%20Top%2010%20%F0%9F%94%9D" alt="💻 My Top 10 🔝" />
 </p>
 
-<p align="center" >
-<a href="https://github-readme-stats.vercel.app/api?username=ahmnouira&count_private=true&show_icons=true&theme=nightowl&include_all_commits=true&langs_count=10&border_radius=15&border_color=#212121">
-    <img src="https://github-readme-stats.vercel.app/api?username=ahmnouira&count_private=true&show_icons=true&theme=nightowl&include_all_commits=true&langs_count=10&border_radius=15&border_color=#212121" />
-  </a>
-</p>
-
 <p align="center">
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmnouira&layout=compact&langs_count=20&hide=Mako&theme=nightowl&count_private=true&border_radius=15&border_color=#212121">
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmnouira&layout=compact&langs_count=20&hide=Mako&theme=nightowl&count_private=true&border_radius=15&border_color=#212121" />
