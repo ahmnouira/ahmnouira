@@ -1,44 +1,9 @@
-
-![](https://komarev.com/ghpvc/?username=ahmnouira-st&style=flat&label=PROFILE+VIEWS&color=blue)
-[![wakatime](https://wakatime.com/badge/user/46b90438-4acb-4c78-9d39-dcc04f80c6ce.svg)](https://wakatime.com/@46b90438-4acb-4c78-9d39-dcc04f80c6ce)
-
----
-
-<p align ="center">
-  <a href="https://discord.com/users/821714984924086283">
-    <img src="https://lanyard.cnrad.dev/api/821714984924086283" />
-  </a>
-</p>
-
 # 🗝️ About Me
 
 - 💼 Always <b>looking for a new better job</b>
 - 👨‍💻 <b>Senior Software Engineer</b> with 7+ years of software development experience.
 - 👯 Looking to collaborate on projects
 - 💬 Ask me about any help -=^.^=-
-
-
-# ✍️ Blogs
-
-<p align ="center">
-  <a href="https://www.instructables.com/member/ahmnouira/">
-  <img src="https://img.shields.io/badge/-instructables.com-333?style=for-the-badge&logo=instructables&logoColor=#faac18"/>
-  </a>
-  <a href="https://dev.to/ahmnouira">
-  <img src="https://img.shields.io/badge/-DEV.to-000?style=for-the-badge&logo=dev.to&logoColor=white"/>
-  </a>
-   <a href="https://medium.com/@ahmnouira">
-  <img src="https://img.shields.io/badge/-Medium-000?style=for-the-badge&logo=Medium&logoColor=white"/>
-  </a>
- </p>
-
-# 📺 Youtube
-
-<p align ="center">
- <a href ="https://www.youtube.com/@ahmnouira?sub_confirmation=1" role="Youtube">
-  <img src="https://img.shields.io/badge/-Youtube-fe0002?style=for-the-badge&logo=Youtube&logoColor=f4fffc"/>
-  </a>  
-</p>
 
 # 📉 My Stats
 
