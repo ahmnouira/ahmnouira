@@ -77,24 +77,24 @@
 > **:octocat: [Github Profile Summary](https://profile-summary-for-github.com/user/ahmnouira)**
 
 <p align="center" >
-  <a href="https://github-readme-streak-stats.herokuapp.com?user=ahmnouira&theme=tokyonight_duo">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ahmnouira&theme=tokyonight_duo" />
+  <a href="https://github-readme-streak-stats.herokuapp.com?user=ahmnouira&theme=github_dark">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ahmnouira&theme=github_dark" />
 </a>
 </p>
 
 <p align="center" >
 <a href="https://wakatime.com/@ahmnouira" target="\_blank">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ahmnouira&v=2&langs_count=25&custom_title=Where%20I%20spent%20my%20time&theme=nightowl&count_private=true&count_private=true&border_radius=8&border_color=#212121%22%20alt=%22%F0%9F%92%BB%20My%20Top%2010%20%F0%9F%94%9D alt="Where I spend my time" />
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ahmnouira&v=2&langs_count=25&custom_title=Where%20I%20spent%20my%20time&theme=github_dark&count_private=true&count_private=true&border_radius=8&border_color=#212121%22%20alt=%22%F0%9F%92%BB%20My%20Top%2010%20%F0%9F%94%9D alt="Where I spend my time" />
 </p>
 
 <p align="center" >
-<a href="https://github-readme-stats.vercel.app/api?username=ahmnouira&count_private=true&show_icons=true&theme=nightowl&include_all_commits=true&langs_count=10&border_radius=15&border_color=#212121">
-    <img src="https://github-readme-stats.vercel.app/api?username=ahmnouira&count_private=true&show_icons=true&theme=nightowl&include_all_commits=true&langs_count=10&border_radius=15&border_color=#212121" />
+<a href="https://github-readme-stats.vercel.app/api?username=ahmnouira&count_private=true&show_icons=true&theme=github_dark&include_all_commits=true&langs_count=10&border_radius=8&border_color=#212121">
+    <img src="https://github-readme-stats.vercel.app/api?username=ahmnouira&count_private=true&show_icons=true&theme=github_dark&include_all_commits=true&langs_count=10&border_radius=8&border_color=#212121" />
   </a>
 </p>
 
 <p align="center">
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmnouira&layout=compact&langs_count=20&hide=Mako&theme=nightowl&count_private=true&border_radius=15&border_color=#212121">
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmnouira&layout=compact&langs_count=20&hide=Mako&theme=nightowl&count_private=true&border_radius=15&border_color=#212121" />
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmnouira&layout=compact&langs_count=25&hide=Mako&theme=github_dark&count_private=true&border_radius=8&border_color=#212121">
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmnouira&layout=compact&langs_count=25&hide=Mako&theme=github_dark&count_private=true&border_radius=8&border_color=#212121" />
 </a>
 </p>
