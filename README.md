@@ -77,14 +77,14 @@
 > **:octocat: [Github Profile Summary](https://profile-summary-for-github.com/user/ahmnouira)**
 
 <p align="center" >
-  <a href="https://github-readme-streak-stats.herokuapp.com?user=ahmnouira&theme=github_dark">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ahmnouira&theme=github_dark" />
-</a>
+<a href="https://wakatime.com/@ahmnouira" target="\_blank">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ahmnouira&v=2&langs_count=25&custom_title=Where%20I%20spent%20my%20time&theme=github_dark&count_private=true&count_private=true&border_radius=8&border_color=#212121%22%20alt=%22%F0%9F%92%BB%20My%20Top%2010%20%F0%9F%94%9D alt="Where I spend my time" />
 </p>
 
 <p align="center" >
-<a href="https://wakatime.com/@ahmnouira" target="\_blank">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ahmnouira&v=2&langs_count=25&custom_title=Where%20I%20spent%20my%20time&theme=github_dark&count_private=true&count_private=true&border_radius=8&border_color=#212121%22%20alt=%22%F0%9F%92%BB%20My%20Top%2010%20%F0%9F%94%9D alt="Where I spend my time" />
+  <a href="https://github-readme-streak-stats.herokuapp.com?user=ahmnouira&theme=transparent">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ahmnouira&theme=transparent" />
+</a>
 </p>
 
 <p align="center" >
