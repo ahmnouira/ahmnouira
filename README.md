@@ -78,7 +78,7 @@
 
 <p align="center" >
 <a href="https://wakatime.com/@ahmnouira" target="\_blank">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ahmnouira&v=2&langs_count=25&custom_title=Where%20I%20spent%20my%20time&theme=github_dark&count_private=true&count_private=true&border_radius=8&border_color=#212121%22%20alt=%22%F0%9F%92%BB%20My%20Top%2010%20%F0%9F%94%9D alt="Where I spend my time" />
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ahmnouira&v=2&langs_count=25&custom_title=Where%20I%20spent%20my%20time&theme=transparent&count_private=true&count_private=true&border_radius=8&border_color=#212121%22%20alt=%22%F0%9F%92%BB%20My%20Top%2010%20%F0%9F%94%9D alt="Where I spend my time" />
 </p>
 
 <p align="center" >
@@ -88,13 +88,13 @@
 </p>
 
 <p align="center" >
-<a href="https://github-readme-stats.vercel.app/api?username=ahmnouira&count_private=true&show_icons=true&theme=github_dark&include_all_commits=true&langs_count=10&border_radius=8&border_color=#212121">
-    <img src="https://github-readme-stats.vercel.app/api?username=ahmnouira&count_private=true&show_icons=true&theme=github_dark&include_all_commits=true&langs_count=10&border_radius=8&border_color=#212121" />
+<a href="https://github-readme-stats.vercel.app/api?username=ahmnouira&count_private=true&show_icons=true&theme=transparent&include_all_commits=true&langs_count=10&border_radius=8&border_color=#212121">
+    <img src="https://github-readme-stats.vercel.app/api?username=ahmnouira&count_private=true&show_icons=true&theme=transparent&include_all_commits=true&langs_count=10&border_radius=8&border_color=#212121" />
   </a>
 </p>
 
 <p align="center">
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmnouira&layout=compact&langs_count=25&hide=Mako&theme=github_dark&count_private=true&border_radius=8&border_color=#212121">
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmnouira&layout=compact&langs_count=25&hide=Mako&theme=github_dark&count_private=true&border_radius=8&border_color=#212121" />
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmnouira&layout=compact&langs_count=25&hide=Mako&theme=transparent&count_private=true&border_radius=8&border_color=#212121">
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmnouira&layout=compact&langs_count=25&hide=Mako&theme=transparent&count_private=true&border_radius=8&border_color=#212121" />
 </a>
 </p>
