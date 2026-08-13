@@ -98,3 +98,391 @@
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmnouira&layout=compact&langs_count=25&hide=Mako&theme=transparent&count_private=true&border_radius=8&border_color=#212121" />
 </a>
 </p>
+
+
+```json
+{
+  "blob": "https://askwe.blob.core.windows.net/cvs/326c6d4a-ca5b-48a5-9e80-759c2b19edca-ahmed_nouira_cv_1.pdf",
+  "result": {
+    "candidate": {
+      "first_name": "Ahmed",
+      "last_name": "Nouira",
+      "full_name": "Ahmed Nouira",
+      "headline": "Senior Full Stack and Mobile Software Engineer",
+      "summary": "Senior Full Stack and Mobile Software Engineer with 7+ years of experience delivering production-ready web and mobile applications across AI analytics, fintech, e-learning, e-commerce, restaurant tech, and agri-tech. Proficient in JavaScript/TypeScript, Python, React, React Native, Flutter, Django, and modern cloud architectures. Strong in troubleshooting production issues, improving code quality and performance, and validating AI-assisted code for accuracy, scalability, and maintainability. Interested in Generative AI, LLMs, AI Model Training, RLHF, Technical Annotation, and Code Generation Evaluation."
+    },
+    "contact": {
+      "email": "ahmnouira@gmail.com",
+      "phone": "",
+      "location": "Monastir, Tunisia",
+      "linkedin": "",
+      "github": ""
+    },
+    "experience": [
+      {
+        "company": "Self-Employed",
+        "title": "Freelance Full Stack Developer & AI Developer",
+        "start_date": "2022-10",
+        "end_date": "Present",
+        "duration_months": 46,
+        "location": "Remote",
+        "description": "Delivered 7+ production web and mobile applications. Reviewed, analyzed, and improved frontend, backend, and mobile codebases to increase reliability and maintainability. Evaluated implementations for correctness, readability, scalability, and security, identifying bugs and edge cases. Refactored applications for performance and code quality improvements. Used AI-assisted development tools while validating generated code for accuracy and production readiness. Wrote technical documentation and provided structured engineering feedback. Collaborated with clients to translate business requirements into scalable solutions.",
+        "projects_highlights": [
+          "Na9raw.tn: Tunisian e-learning platform built with React",
+          "OGreen: Algorithmic trading app with low-latency execution and real-time portfolio tracking",
+          "Fine Dining: Restaurant website (Gatsby.js) with menu management and responsive design",
+          "AskWe: Flutter mobile app (iOS/Android) with real-time interactions (App Store)",
+          "Qinsights.ai: AI-powered data analysis platform for business intelligence",
+          "E-commerce Website: Full-stack store using React, React Native, and Django (catalog, cart, payments)",
+          "Ecopaturage App: Flutter app for sustainable livestock grazing management"
+        ],
+        "skills": [
+          "React",
+          "React Native",
+          "Flutter",
+          "Django",
+          "Node.js",
+          "REST APIs",
+          "Performance Optimization",
+          "Code Review",
+          "AI-Assisted Development",
+          "Security",
+          "Scalability",
+          "Technical Documentation"
+        ]
+      },
+      {
+        "company": "Scorf Cooperative",
+        "title": "Senior Full Stack Engineer",
+        "start_date": "2019-11",
+        "end_date": "2022-10",
+        "duration_months": 35,
+        "location": "Remote",
+        "description": "Developed and maintained full-stack web applications using React.js and Django with a focus on performance, scalability, and security. Designed and implemented RESTful APIs. Established automated testing strategies to maintain code quality and speed up development. Collaborated with DevOps to deploy applications using containerization and cloud platforms.",
+        "skills": [
+          "React.js",
+          "Django",
+          "REST APIs",
+          "Automated Testing",
+          "Containerization",
+          "Cloud Deployment",
+          "DevOps"
+        ]
+      },
+      {
+        "company": "Squibler.io",
+        "title": "React Developer",
+        "start_date": "2017-04",
+        "end_date": "2019-10",
+        "duration_months": 30,
+        "location": "Remote",
+        "description": "Developed and maintained React components for web applications, adhering to best practices. Implemented responsive designs across devices in collaboration with UI/UX. Integrated front-end components with RESTful APIs to ensure smooth functionality.",
+        "skills": [
+          "React",
+          "Responsive Design",
+          "UI/UX Collaboration",
+          "REST API Integration",
+          "Frontend Development"
+        ]
+      },
+      {
+        "company": "InnovUp",
+        "title": "Junior React Developer",
+        "start_date": "2015-08",
+        "end_date": "2017-03",
+        "duration_months": 19,
+        "location": "Remote",
+        "description": "Assisted in developing and maintaining React applications, delivering high-quality code with senior engineers. Conducted testing using Jest to identify and resolve bugs. Translated design concepts into functional React components for a user-friendly interface.",
+        "skills": [
+          "React",
+          "Jest",
+          "Unit Testing",
+          "Component Development",
+          "Bug Fixing"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Engineering Degree",
+        "field": "Computer Science Engineering",
+        "school": "PolyTech School of Monastir",
+        "start_year": 2018,
+        "end_year": 2021,
+        "location": "Monastir, Tunisia"
+      },
+      {
+        "degree": "Engineering Studies",
+        "field": "Electronics Engineering (Microelectronics)",
+        "school": "ISIMM - Higher Institute of Computer Science and Mathematics",
+        "start_year": 2017,
+        "end_year": 2018,
+        "location": "Monastir, Tunisia"
+      },
+      {
+        "degree": "National Diploma (Fundamental License)",
+        "field": "STIC Electronic-Computer Science",
+        "school": "ISIMM - Higher Institute of Computer Science and Mathematics",
+        "start_year": 2014,
+        "end_year": 2017,
+        "location": "Monastir, Tunisia"
+      }
+    ],
+    "skills": {
+      "programming": [
+        "JavaScript",
+        "TypeScript",
+        "Python",
+        "PHP",
+        "Java",
+        "Kotlin",
+        "C#",
+        "Dart",
+        "HTML5",
+        "CSS3",
+        "SASS"
+      ],
+      "frameworks": [
+        "React",
+        "Angular",
+        "Vue.js",
+        "Node.js",
+        "Express",
+        "React Native",
+        "Ionic",
+        "Flutter",
+        "Django",
+        "Laravel",
+        "Spring Boot",
+        "Flask",
+        "Redux",
+        "jQuery",
+        "Bootstrap",
+        "Semantic UI",
+        "Material UI",
+        "Gatsby.js"
+      ],
+      "cloud": ["AWS", "IBM Cloud"],
+      "databases": [
+        "MongoDB",
+        "MySQL",
+        "PostgreSQL",
+        "Firebase",
+        "IBM Cloudant"
+      ],
+      "devops": ["Docker", "Git", "CI/CD", "Agile/Scrum", "Containerization"],
+      "tools": ["JSON", "AJAX", "XML", "Firebase Realtime Database"],
+      "core_competencies": [
+        "Full Stack Development",
+        "Mobile Development",
+        "Responsive Design",
+        "RESTful APIs",
+        "State Management",
+        "Code Review",
+        "Mentoring",
+        "Performance Optimization",
+        "Security",
+        "Technical Documentation"
+      ],
+      "ai": [
+        "Generative AI",
+        "Large Language Models (LLMs)",
+        "RLHF",
+        "AI Model Training",
+        "AI Code Review",
+        "Technical Annotation",
+        "Code Generation Evaluation"
+      ]
+    },
+    "languages": [
+      {
+        "language": "Arabic",
+        "level": "Native"
+      },
+      {
+        "language": "English",
+        "level": "Fluent"
+      },
+      {
+        "language": "French",
+        "level": "Bilingual"
+      }
+    ],
+    "certifications": [
+      {
+        "name": "MTA: Cloud Fundamentals",
+        "issuer": "Microsoft",
+        "year": null
+      },
+      {
+        "name": "MTA: Security Fundamentals",
+        "issuer": "Microsoft",
+        "year": null
+      },
+      {
+        "name": "MTA: Software Development",
+        "issuer": "Microsoft",
+        "year": null
+      },
+      {
+        "name": "MTA: Database Administration",
+        "issuer": "Microsoft",
+        "year": null
+      },
+      {
+        "name": "MTA: Python",
+        "issuer": "Microsoft",
+        "year": null
+      },
+      {
+        "name": "MTA: Java",
+        "issuer": "Microsoft",
+        "year": null
+      },
+      {
+        "name": "MTA: JavaScript",
+        "issuer": "Microsoft",
+        "year": null
+      },
+      {
+        "name": "MTA: HTML/CSS",
+        "issuer": "Microsoft",
+        "year": null
+      },
+      {
+        "name": "MTA: Block-Based Languages",
+        "issuer": "Microsoft",
+        "year": null
+      },
+      {
+        "name": "CCNA Routing and Switching - Introduction to Networks",
+        "issuer": "Cisco",
+        "year": null
+      },
+      {
+        "name": "Docker Essentials",
+        "issuer": "IBM",
+        "year": null
+      },
+      {
+        "name": "IBM Cloud",
+        "issuer": "IBM",
+        "year": null
+      },
+      {
+        "name": "IBM Cloudant Developer",
+        "issuer": "IBM",
+        "year": null
+      },
+      {
+        "name": "Carbon Design System (Angular & React)",
+        "issuer": "IBM",
+        "year": null
+      }
+    ],
+    "projects": [
+      {
+        "name": "Bandora",
+        "year": 2019,
+        "tech": ["Ionic", "Angular", "Firebase Realtime Database"],
+        "description": "Social media chat Mobile & Web app allowing users to chat and meet people worldwide.",
+        "links": ["https://bandora.now.sh", "https://bandora.firebaseapp.com"]
+      },
+      {
+        "name": "react-native-innovant",
+        "year": 2019,
+        "tech": ["React Native"],
+        "description": "React Native Innovant UI Library (open-source).",
+        "links": []
+      },
+      {
+        "name": "ionic-react-header-parallax",
+        "year": 2020,
+        "tech": ["Ionic React"],
+        "description": "Hook for parallax effect on IonHeader in React Ionic (open-source).",
+        "links": []
+      },
+      {
+        "name": "Na9raw.tn",
+        "year": null,
+        "tech": ["React"],
+        "description": "E-learning platform with online courses and learner management.",
+        "links": []
+      },
+      {
+        "name": "OGreen",
+        "year": null,
+        "tech": ["React", "Node.js"],
+        "description": "Algorithmic trading app with low-latency execution and real-time portfolio tracking.",
+        "links": []
+      },
+      {
+        "name": "Fine Dining",
+        "year": null,
+        "tech": ["Gatsby.js"],
+        "description": "Restaurant website with menu management and responsive design.",
+        "links": []
+      },
+      {
+        "name": "AskWe",
+        "year": null,
+        "tech": ["Flutter"],
+        "description": "Mobile app (iOS/Android) with community Q&A and real-time interactions.",
+        "links": []
+      },
+      {
+        "name": "Qinsights.ai",
+        "year": null,
+        "tech": ["React", "Python"],
+        "description": "AI-powered data analysis web platform for business intelligence and smart insights.",
+        "links": []
+      },
+      {
+        "name": "E-commerce Website",
+        "year": null,
+        "tech": ["React", "React Native", "Django"],
+        "description": "Full-stack online store featuring catalog, cart, and payment integration.",
+        "links": []
+      },
+      {
+        "name": "Ecopaturage App",
+        "year": null,
+        "tech": ["Flutter"],
+        "description": "Mobile app for sustainable livestock grazing management to optimize pasture usage.",
+        "links": []
+      }
+    ],
+    "links": ["https://bandora.now.sh", "https://bandora.firebaseapp.com"],
+    "socials": [
+      {
+        "name": "LinkedIn",
+        "link": ""
+      },
+      {
+        "name": "GitHub",
+        "link": ""
+      },
+      {
+        "name": "DEV (Blog)",
+        "link": ""
+      },
+      {
+        "name": "NPM",
+        "link": ""
+      }
+    ],
+    "years_experience": 11,
+    "seniority": "Senior",
+    "job_titles": [
+      "Senior Full Stack Engineer",
+      "Full Stack Developer",
+      "AI Developer",
+      "Mobile Software Engineer",
+      "React Developer",
+      "Junior React Developer"
+    ]
+  }
+}
+
+
+```
