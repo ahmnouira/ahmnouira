@@ -61,7 +61,7 @@ I enjoy taking an idea from **architecture → implementation → infrastructure
 
 **Think bigger. Build better. Ship relentlessly.**
 
-# 💼 My ATS Resume
+# 📄 Resume
 
 ```json
 {
