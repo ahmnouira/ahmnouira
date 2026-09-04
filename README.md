@@ -132,7 +132,7 @@
   },
   "contact": {
     "email": "ahmnouira@gmail.com",
-    "phone": null,
+    "phone": +21624272897,
     "location": "Monastir, Tunisia"
   },
   "skills": {
