@@ -1,4 +1,4 @@
-<h1 align="center">Hi there <img width="45" src="waving_hand.gif" alt="hand" />, I'm Ahmed Nouira </h1>
+<h1 align="center">Hi there, I'm Ahmed Nouira <img width="45" src="waving_hand.gif" alt="hand" /></h1>
 
 
 ![](https://komarev.com/ghpvc/?username=ahmnouira-st&style=flat&label=PROFILE+VIEWS&color=blue)
